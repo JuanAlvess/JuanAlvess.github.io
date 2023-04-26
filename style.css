@@ -2,7 +2,14 @@ body {
     background-color: #272431;
     font-family:'Roboto', sans-serif;
     text-align: center;
+    
 }
 .descrição {
     color: aliceblue;
+}
+h1, h2 {
+    color:#20ffa9;
+}
+.botão {
+    border-color: blue;
 }
