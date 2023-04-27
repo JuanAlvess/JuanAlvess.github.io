@@ -4,12 +4,33 @@ body {
     text-align: center;
     
 }
+.profile-card {
+    /* border: 2px solid red; */
+
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(51, 253, 152);
+
+}
 .descrição {
     color: aliceblue;
 }
-h1, h2 {
-    color:#20ffa9;
-}
 .botão {
     border-color: blue;
+}
+.img {
+    margin-top: 5%;
+    margin-bottom: 0%;
+}
+h1, h2 {
+    color:#2b2b2b;
+}
+h1 {
+    font-size: 45px;
+    font-weight: 200%;
+}
+h2 {
+    font-size: 25px;
+    font-weight: 20%;
 }
